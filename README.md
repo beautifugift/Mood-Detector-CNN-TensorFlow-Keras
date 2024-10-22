@@ -1,5 +1,8 @@
 # Mood-Detector-CNN-TensorFlow-Keras
 
+# link to the project 
+https://www.kaggle.com/code/ezeyinwaprisca/mood-detector-cnn-tensorflow-keras/edit
+
 # The Data
 The data for this project was sourced from Google Photos, consisting of images capturing both smiling and non-smiling facial expressions. These photos served as the training data for the emotion detection model.
 
